@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>MySQL索引</title>
+      <link href="/posts/43a71ae4.html"/>
+      <url>/posts/43a71ae4.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-什么是索引"><a href="#1-什么是索引" class="headerlink" title="1. 什么是索引"></a>1. 什么是索引</h2><h2 id="2-索引分类"><a href="#2-索引分类" class="headerlink" title="2. 索引分类"></a>2. 索引分类</h2><h2 id="3-索引的基本操作"><a href="#3-索引的基本操作" class="headerlink" title="3. 索引的基本操作"></a>3. 索引的基本操作</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> MySQL索引 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Shell编程初探</title>
       <link href="/posts/69ad0127.html"/>
       <url>/posts/69ad0127.html</url>
